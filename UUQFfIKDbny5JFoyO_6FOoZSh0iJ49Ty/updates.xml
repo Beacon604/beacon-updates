@@ -1,5 +1,9 @@
-<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-<app appid="__EXTENSION_ID__">
-<updatecheck codebase="https://Beacon604.github.io/beacon-updates/UUQFfIKDbny5JFoyO_6FOoZSh0iJ49Ty/beacon.zip" version="1.0"/>
-</app>
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='pnejehmbdmjfbpggbodoemfdcbmndcjg'>
+    <updatecheck
+      codebase='https://Beacon604.github.io/beacon-updates/UUQFfIKDbny5JFoyO_6FOoZSh0iJ49Ty/beacon.zip'
+      version='1.0' />
+  </app>
 </gupdate>
+ 
